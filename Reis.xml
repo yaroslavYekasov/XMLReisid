@@ -1,0 +1,302 @@
+<Reisid>
+  <Reis ID="1">
+    <Sihtkoht>Paris</Sihtkoht>
+    <Transport>
+      <Lennujaam>Charles de Gaulle</Lennujaam>
+      <Viis>Bus, Metro</Viis>
+    </Transport>
+    <Majutus Hind="1200.50">Hotel Le Meurice</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Museums, Shopping</Tegevused>
+  </Reis>
+  <Reis ID="2">
+    <Sihtkoht>London</Sihtkoht>
+    <Transport>
+      <Lennujaam>Heathrow</Lennujaam>
+      <Viis>Bus, Metro</Viis>
+    </Transport>
+    <Majutus Hind="1500.75">The Ritz</Majutus>
+    <Kestus>4</Kestus>
+    <Tegevused>Theaters, Restaurants</Tegevused>
+  </Reis>
+  <Reis ID="3">
+    <Sihtkoht>New York</Sihtkoht>
+    <Transport>
+      <Lennujaam>JFK</Lennujaam>
+      <Viis>Taxis, Subway</Viis>
+    </Transport>
+    <Majutus Hind="2000.00">The Plaza</Majutus>
+    <Kestus>7</Kestus>
+    <Tegevused>Broadway, Museums</Tegevused>
+  </Reis>
+  <Reis ID="4">
+    <Sihtkoht>Tokyo</Sihtkoht>
+    <Transport>
+      <Lennujaam>Narita</Lennujaam>
+      <Viis>Train, Bus</Viis>
+    </Transport>
+    <Majutus Hind="1800.00">The Peninsula</Majutus>
+    <Kestus>6</Kestus>
+    <Tegevused>Temples, Gardens</Tegevused>
+  </Reis>
+  <Reis ID="5">
+    <Sihtkoht>Berlin</Sihtkoht>
+    <Transport>
+      <Lennujaam>Tegel</Lennujaam>
+      <Viis>Tram, Subway</Viis>
+    </Transport>
+    <Majutus Hind="1100.00">Adlon Kempinski</Majutus>
+    <Kestus>4</Kestus>
+    <Tegevused>History Tours, Nightlife</Tegevused>
+  </Reis>
+  <Reis ID="6">
+    <Sihtkoht>Sydney</Sihtkoht>
+    <Transport>
+      <Lennujaam>Kingsford Smith</Lennujaam>
+      <Viis>Bus, Train</Viis>
+    </Transport>
+    <Majutus Hind="1700.50">Shangri-La</Majutus>
+    <Kestus>7</Kestus>
+    <Tegevused>Beaches, Opera House</Tegevused>
+  </Reis>
+  <Reis ID="7">
+    <Sihtkoht>Dubai</Sihtkoht>
+    <Transport>
+      <Lennujaam>Dubai International</Lennujaam>
+      <Viis>Taxi, Metro</Viis>
+    </Transport>
+    <Majutus Hind="2500.75">Burj Al Arab</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Shopping, Desert Safari</Tegevused>
+  </Reis>
+  <Reis ID="8">
+    <Sihtkoht>Rome</Sihtkoht>
+    <Transport>
+      <Lennujaam>Fiumicino</Lennujaam>
+      <Viis>Train, Bus</Viis>
+    </Transport>
+    <Majutus Hind="1400.25">Hotel Eden</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Vatican, Colosseum</Tegevused>
+  </Reis>
+  <Reis ID="9">
+    <Sihtkoht>Moscow</Sihtkoht>
+    <Transport>
+      <Lennujaam>Sheremetyevo</Lennujaam>
+      <Viis>Metro, Taxi</Viis>
+    </Transport>
+    <Majutus Hind="1300.80">Four Seasons</Majutus>
+    <Kestus>4</Kestus>
+    <Tegevused>Kremlin, Red Square</Tegevused>
+  </Reis>
+  <Reis ID="10">
+    <Sihtkoht>Los Angeles</Sihtkoht>
+    <Transport>
+      <Lennujaam>LAX</Lennujaam>
+      <Viis>Uber, Bus</Viis>
+    </Transport>
+    <Majutus Hind="2200.40">Beverly Hills Hotel</Majutus>
+    <Kestus>6</Kestus>
+    <Tegevused>Hollywood, Beaches</Tegevused>
+  </Reis>
+  <Reis ID="11">
+    <Sihtkoht>Barcelona</Sihtkoht>
+    <Transport>
+      <Lennujaam>El Prat</Lennujaam>
+      <Viis>Metro, Bus</Viis>
+    </Transport>
+    <Majutus Hind="1500.50">W Barcelona</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Sagrada Familia, Park Guell</Tegevused>
+  </Reis>
+  <Reis ID="12">
+    <Sihtkoht>Amsterdam</Sihtkoht>
+    <Transport>
+      <Lennujaam>Schiphol</Lennujaam>
+      <Viis>Train, Bike</Viis>
+    </Transport>
+    <Majutus Hind="1300.00">Hotel Okura</Majutus>
+    <Kestus>4</Kestus>
+    <Tegevused>Canals, Museums</Tegevused>
+  </Reis>
+  <Reis ID="13">
+    <Sihtkoht>Istanbul</Sihtkoht>
+    <Transport>
+      <Lennujaam>Istanbul Airport</Lennujaam>
+      <Viis>Taxi, Metro</Viis>
+    </Transport>
+    <Majutus Hind="1900.75">Ciragan Palace</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Bazaars, Mosques</Tegevused>
+  </Reis>
+  <Reis ID="14">
+    <Sihtkoht>Singapore</Sihtkoht>
+    <Transport>
+      <Lennujaam>Changi</Lennujaam>
+      <Viis>Taxi, MRT</Viis>
+    </Transport>
+    <Majutus Hind="2300.00">Marina Bay Sands</Majutus>
+    <Kestus>6</Kestus>
+    <Tegevused>Gardens by the Bay, Shopping</Tegevused>
+  </Reis>
+  <Reis ID="15">
+    <Sihtkoht>Cape Town</Sihtkoht>
+    <Transport>
+      <Lennujaam>Cape Town International</Lennujaam>
+      <Viis>Bus, Taxi</Viis>
+    </Transport>
+    <Majutus Hind="1600.30">One&amp;Only Cape Town</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Table Mountain, Wine Tours</Tegevused>
+  </Reis>
+  <Reis ID="16">
+    <Sihtkoht>Bangkok</Sihtkoht>
+    <Transport>
+      <Lennujaam>Suvarnabhumi</Lennujaam>
+      <Viis>Tuk Tuk, Taxi</Viis>
+    </Transport>
+    <Majutus Hind="1200.20">Mandarin Oriental</Majutus>
+    <Kestus>4</Kestus>
+    <Tegevused>Temples, Night Markets</Tegevused>
+  </Reis>
+  <Reis ID="17">
+    <Sihtkoht>Miami</Sihtkoht>
+    <Transport>
+      <Lennujaam>Miami International</Lennujaam>
+      <Viis>Uber, Bus</Viis>
+    </Transport>
+    <Majutus Hind="2000.45">Fontainebleau</Majutus>
+    <Kestus>6</Kestus>
+    <Tegevused>Beaches, Nightlife</Tegevused>
+  </Reis>
+  <Reis ID="18">
+    <Sihtkoht>Hong Kong</Sihtkoht>
+    <Transport>
+      <Lennujaam>Hong Kong International</Lennujaam>
+      <Viis>Ferry, MTR</Viis>
+    </Transport>
+    <Majutus Hind="2100.70">The Peninsula</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Victoria Peak, Shopping</Tegevused>
+  </Reis>
+  <Reis ID="19">
+    <Sihtkoht>Rio de Janeiro</Sihtkoht>
+    <Transport>
+      <Lennujaam>Galeão</Lennujaam>
+      <Viis>Taxi, Metro</Viis>
+    </Transport>
+    <Majutus Hind="1700.65">Copacabana Palace</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Beaches, Carnival</Tegevused>
+  </Reis>
+  <Reis ID="20">
+    <Sihtkoht>Toronto</Sihtkoht>
+    <Transport>
+      <Lennujaam>Pearson</Lennujaam>
+      <Viis>Train, Subway</Viis>
+    </Transport>
+    <Majutus Hind="1600.80">Fairmont Royal York</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>CN Tower, Museums</Tegevused>
+  </Reis>
+  <Reis ID="21">
+    <Sihtkoht>San Francisco</Sihtkoht>
+    <Transport>
+      <Lennujaam>SFO</Lennujaam>
+      <Viis>Uber, Tram</Viis>
+    </Transport>
+    <Majutus Hind="2100.50">The Fairmont</Majutus>
+    <Kestus>6</Kestus>
+    <Tegevused>Golden Gate, Alcatraz</Tegevused>
+  </Reis>
+  <Reis ID="22">
+    <Sihtkoht>Vienna</Sihtkoht>
+    <Transport>
+      <Lennujaam>Vienna International</Lennujaam>
+      <Viis>Train, Tram</Viis>
+    </Transport>
+    <Majutus Hind="1400.20">Hotel Sacher</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Opera House, Palaces</Tegevused>
+  </Reis>
+  <Reis ID="23">
+    <Sihtkoht>Mexico City</Sihtkoht>
+    <Transport>
+      <Lennujaam>Benito Juarez</Lennujaam>
+      <Viis>Bus, Subway</Viis>
+    </Transport>
+    <Majutus Hind="1300.75">Four Seasons Mexico City</Majutus>
+    <Kestus>4</Kestus>
+    <Tegevused>Historic Center, Museums</Tegevused>
+  </Reis>
+  <Reis ID="24">
+    <Sihtkoht>Seoul</Sihtkoht>
+    <Transport>
+      <Lennujaam>Incheon</Lennujaam>
+      <Viis>Subway, Bus</Viis>
+    </Transport>
+    <Majutus Hind="1500.50">Grand Hyatt</Majutus>
+    <Kestus>6</Kestus>
+    <Tegevused>Palaces, Markets</Tegevused>
+  </Reis>
+  <Reis ID="25">
+    <Sihtkoht>Lisbon</Sihtkoht>
+    <Transport>
+      <Lennujaam>Humberto Delgado</Lennujaam>
+      <Viis>Tram, Metro</Viis>
+    </Transport>
+    <Majutus Hind="1200.45">Bairro Alto Hotel</Majutus>
+    <Kestus>4</Kestus>
+    <Tegevused>Castles, Fado Music</Tegevused>
+  </Reis>
+  <Reis ID="26">
+    <Sihtkoht>Prague</Sihtkoht>
+    <Transport>
+      <Lennujaam>Vaclav Havel</Lennujaam>
+      <Viis>Tram, Bus</Viis>
+    </Transport>
+    <Majutus Hind="1100.65">Alchymist Grand Hotel</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Old Town, Charles Bridge</Tegevused>
+  </Reis>
+  <Reis ID="27">
+    <Sihtkoht>Munich</Sihtkoht>
+    <Transport>
+      <Lennujaam>Munich Airport</Lennujaam>
+      <Viis>Train, Tram</Viis>
+    </Transport>
+    <Majutus Hind="1300.80">Hotel Bayerischer Hof</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Beer Gardens, Castles</Tegevused>
+  </Reis>
+  <Reis ID="28">
+    <Sihtkoht>Athens</Sihtkoht>
+    <Transport>
+      <Lennujaam>Athens International</Lennujaam>
+      <Viis>Bus, Metro</Viis>
+    </Transport>
+    <Majutus Hind="1400.30">Grand Bretagne</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Acropolis, Museums</Tegevused>
+  </Reis>
+  <Reis ID="29">
+    <Sihtkoht>Buenos Aires</Sihtkoht>
+    <Transport>
+      <Lennujaam>Ezeiza</Lennujaam>
+      <Viis>Taxi, Bus</Viis>
+    </Transport>
+    <Majutus Hind="1600.50">Alvear Palace</Majutus>
+    <Kestus>5</Kestus>
+    <Tegevused>Tango Shows, Historic Tours</Tegevused>
+  </Reis>
+  <Reis ID="30">
+    <Sihtkoht>Cairo</Sihtkoht>
+    <Transport>
+      <Lennujaam>Cairo International</Lennujaam>
+      <Viis>Taxi, Metro</Viis>
+    </Transport>
+    <Majutus Hind="1800.75">Marriott Mena House</Majutus>
+    <Kestus>6</Kestus>
+    <Tegevused>Pyramids, Museums</Tegevused>
+  </Reis>
+</Reisid>
