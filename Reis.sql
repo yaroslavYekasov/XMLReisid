@@ -108,13 +108,15 @@ values (30, 'Cairo', 'Cairo International', 'Taxi, Metro', 'Marriott Mena House'
 
 use Reis;
 SELECT 
-    ReisID AS [@ID],  -- ReisID atribuudi kujul
-    Sihtkoht AS Sihtkoht,  -- Sihtkoha element
-    Lennujaam AS [Transport/Lennujaam],  -- Lennujaam pesastatud Transpordi alla
-    Transport AS [Transport/Viis],  -- Viis pesastatud Transpordi alla
-    Majutus AS [Majutus],  -- Majutuse element
-    Hind AS [Majutus/@Hind],  -- Hind atribuudina Majutuse sees
-    Kestus AS Kestus,                 
-    Tegevused AS Tegevused           
+    ReisID AS [@ID],  -- ReisID kui atribuut
+    Sihtkoht AS Sihtkoht,
+    -- Transpordi kolmetasandiline struktuur
+    Lennujaam AS [Transport/Lennureis/Lennujaam],
+    Transport AS [Transport/Viis],
+    -- Majutuse kolmetasandiline struktuur
+    Majutus AS [Majutus/Nimi],
+    Hind AS [Majutus/@Hind],
+    Kestus AS Kestus,
+    Tegevused AS Tegevused
 FROM Reisimine 
 FOR XML PATH('Reis'), ROOT('Reisid');
